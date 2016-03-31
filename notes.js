@@ -8,3 +8,10 @@ Code	Output
 \t	tab
 \b	backspace
 \f	form feed
+
+//Manipulate Arrays
+
+shift()
+unshift()
+pop()
+push()
