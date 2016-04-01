@@ -18,3 +18,9 @@ push()
 
 //return a value from Function
  there are two kinds of Var: Local and Global
+
+
+function plusThree(num) {
+  return num + 3;
+}
+var answer = plusThree(5); // 8
