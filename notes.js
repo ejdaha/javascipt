@@ -15,3 +15,6 @@ shift()
 unshift()
 pop()
 push()
+
+//return a value from Function
+ there are two kinds of Var: Local and Global
