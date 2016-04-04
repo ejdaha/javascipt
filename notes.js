@@ -120,6 +120,11 @@ else {
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference///Check for referances
 
 
-///////////////
+///////////////CREATING OBJECTS//////////
 
+var player={name:"rufat",lastName:"kamalov", rank: 2};
+
+console.log(player.name, player.lastName)
+
+//
 
