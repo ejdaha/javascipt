@@ -93,3 +93,33 @@ else {
 gotVeren(4,6);
 var xortdan=gotVeren(4,6);
 //
+//STRING Methods
+
+
+var phase="Ay seni decel necesen?";
+
+var segment=phase.slice(6,11);
+
+console.log(segment);
+
+slice(start, end), substring(start, end)
+////////////////////////////////////////////////
+var got=new Date();
+console.log(got);
+
+if (got>2017) {
+
+  console.log ("Bogun");
+} 
+
+else {
+
+  console.log( "Elive Verim");
+}
+
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference///Check for referances
+
+
+///////////////
+
+
