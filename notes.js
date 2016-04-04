@@ -126,5 +126,8 @@ var player={name:"rufat",lastName:"kamalov", rank: 2};
 
 console.log(player.name, player.lastName)
 
-//
+//DOM(Document Objected Model)
+--node
+document.getElementById(someId);
+
 
