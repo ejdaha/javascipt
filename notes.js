@@ -43,3 +43,53 @@ var answer= timesFive(5);
 
 //In Computer Science a queue is an abstract Data Structure where items are kept in order. 
  //-New items can be added at the back of the queue and old items are taken off from the front of the queue.
+ 
+ 
+var a=15;
+var b=20;
+
+if (a+b===12) {
+    console.log("Gotveren");}
+else {
+        console.log("Sehvdir");
+    }
+    
+// While Loop:
+
+var a=1;
+
+while (a<=5) {
+    
+console.log(a);
+a+=2;
+}  //1 3 5
+
+//Do While Loop
+
+var a=1;
+do {
+console.log(a);
+a+=2;
+}
+while (a<=5);//1 3 5
+
+//FOR Loop
+
+
+
+//Function 
+
+function gotVeren(cindir, got){
+    
+var  ejdaha=cindir+got;
+if (ejdaha===10) {
+    console.log("Ay Seni Gotveren");
+}
+else {
+    console.log("Olmadi");
+}
+}
+
+gotVeren(4,6);
+var xortdan=gotVeren(4,6);
+//
