@@ -130,4 +130,17 @@ console.log(player.name, player.lastName)
 --node
 document.getElementById(someId);
 
+//Create new elements 
+
+var newHeading=document.createElement("h1");
+var newParagraph=document.createElement("p");
+
+//to add content to, either use innerHTML
+newHeading.innerHTML="Your Text";
+newParagraph.innerHTML="Your Text";
+
+//and we still need to attach them to the document!
+document.getElementById("Id name").appendChild(newHeading);
+document.getElementById("Id name").appendChild(newParagraph);
+
 
