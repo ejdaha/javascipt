@@ -191,3 +191,13 @@ var myObj = {
 };
 myObj["Space Name"]; // Kirk
 myObj['More Space']; // Spock
+
+
+//OBJECTS with Array
+
+var myObj = {
+  "Space Name": "Kirk",
+  "More Space": "Spock"
+};
+myObj["Space Name"]; // Kirk
+myObj['More Space']; // Spock
