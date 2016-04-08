@@ -183,3 +183,11 @@ function isLess(a, b) {
 
 // Change these values to test
 isLess(10, 15);
+
+//Use ObJECT
+var myObj = {
+  "Space Name": "Kirk",
+  "More Space": "Spock"
+};
+myObj["Space Name"]; // Kirk
+myObj['More Space']; // Spock
